@@ -1,6 +1,9 @@
 # House-Price-Predictor
 This project predicts house prices using machine learning.
 
+This project uses a Scikit-learn Pipeline with ColumnTransformer
+to ensure preprocessing during inference matches training.
+
 ## Features
 - Data preprocessing
 - Exploratory data analysis
